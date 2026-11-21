@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mahmoud Farrag
 
-<!--
-**msfarrag/msfarrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Civil engineer at AtkinsRéalis, building towards forward deployed engineering.
+I build tools to remove time and money waste from engineering.
 
-Here are some ideas to get you started:
+**Currently building:**
+- A text classification API deployed on AWS (Lambda, API Gateway, CDK in TypeScript)
+- A classifier for FAA aircraft defect reports
+- A maintenance assistant using retrieval-augmented generation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** Python, SQL, TypeScript, AWS CDK, FastAPI, scikit-learn
+
+**Contact:** https://www.linkedin.com/in/mshfarrag/
